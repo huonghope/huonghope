@@ -14,11 +14,12 @@
 
 ### :baby_chick: Interest
 
-- Web Design
-- React Js 
-- Devops
-- Cloud
-- Hum...
+- Web Design & Devops
+- E-commerce 
+- Gym & Running
+- Travel & Photograph
+- Make Friends
+- hums...
 
 
 
