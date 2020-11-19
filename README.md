@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=250&section=header&text=Hi👋%20I'm%20Nguyen Huong&fontSize=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=250&section=header&text=Hi👋%20I'm%20Nguyen%20Huong&fontSize=70&fontAlignY=35)
 
 
 %
