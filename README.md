@@ -19,7 +19,6 @@
 - Gym & Running
 - Travel & Photograph
 - Make Friends
-- hums...
 
 
 
