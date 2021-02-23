@@ -2,7 +2,7 @@
 
 
 %
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjingnee%2Fhit-counter&count_bg=%2338356E&title_bg=%23766B6B&icon=hey.svg&icon_color=%23F3EFAF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2362D30B&title_bg=%23555555&icon=qzone.svg&icon_color=%2362D30B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align='center'> Contact me and show my algorithm skills! </p>
 <p align='center'>
