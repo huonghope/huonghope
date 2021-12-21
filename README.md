@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[Github Memory](https://githubmemory.com/index.php/@huonghope)
+<a href="https://githubmemory.com/index.php/@huonghope" rel="noopener" target="_blank">My Githubmemory 🚀</a>
 
 ### :baby_chick: Interest
 
