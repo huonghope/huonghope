@@ -20,6 +20,8 @@
 - Travel & Photograph
 - Make Friends
 
+### :star: I believe consistency makes genius
+[![huonghope's GitHub stats](https://github-readme-stats.vercel.app/api?username=huonghope&show_icons=true&count_private=true&hide=contribs)](https://github.com/huonghope) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huonghope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
